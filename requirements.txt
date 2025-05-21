@@ -1,4 +1,5 @@
 streamlit
-plotly
 pandas
-openpyxl
+plotly
+requests
+office365-rest-python-client
